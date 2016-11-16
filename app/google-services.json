@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "508572182628",
+    "firebase_url": "https://gorent-2fab8.firebaseio.com",
+    "project_id": "gorent-2fab8",
+    "storage_bucket": "gorent-2fab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508572182628:android:ccb48b74ca490c18",
+        "android_client_info": {
+          "package_name": "com.gonuvem.gorent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508572182628-iar6rpa9olvgju6vc5doouhq63tej0pm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gonuvem.gorent",
+            "certificate_hash": "30E33DCABDAF463593C88C9E682ACAC83CD990D8"
+          }
+        },
+        {
+          "client_id": "508572182628-4a5i65ud3snojdbuslna9euv6gl5jlah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8VGVu6sD8azSV6AWfXzGd4FFEk4addlU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508572182628-4a5i65ud3snojdbuslna9euv6gl5jlah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
